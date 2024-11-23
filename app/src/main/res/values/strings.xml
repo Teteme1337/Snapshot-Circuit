@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snapshot Circuit</string>
+
+    <string name="components_background_1">Каталог компонентов</string>
+    <string name="components_background_2">Выйти из профиля</string>
+    <string name="components_background_3">Поиск по фото</string>
+</resources>
